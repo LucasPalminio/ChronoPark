@@ -1,5 +1,5 @@
 # ChronoPark
-Estacionamiento digitalizado
+> Estacionamiento digitalizado
 # FAQ
 ## ¿Que es ChronoPark?
 Es una herramienta que facilita el cobro y pago de la tarifa de estacionamiento transformándola en una actividad que se desarrolla completamente en un entorno digital.
