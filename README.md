@@ -8,4 +8,4 @@ Por medio de una aplicación móvil que posee el trabajador se registra la matr�
 ## ¿A quien está dirigido ChronoPark?
 Principalmente a propietarios de estacionamientos privados o públicos y de manera secundaria a los clientes de dichos estacionamientos.
 ## ¿Como contactarnos?
-En nuestro sitio web [https://lucaspalminio.github.io/ChronoPark/] se encuentran los medios para contactar con nuestro equipo de ventas.
+En nuestro sitio web https://lucaspalminio.github.io/ChronoPark/ se encuentran los medios para contactar con nuestro equipo de ventas.
